@@ -409,13 +409,6 @@
       }
     },
     {
-      "name": "Blade Directive",
-      "scope": ["keyword.blade"],
-      "settings": {
-        "foreground": "#957FB8"
-      }
-    },
-    {
       "name": "Property",
       "scope": ["variable.other.property"],
       "settings": {
