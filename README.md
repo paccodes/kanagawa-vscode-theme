@@ -12,12 +12,15 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
     <img src="https://vsmarketplacebadges.dev/version/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Marketplace&color=957FB8" alt="Visual Studio Marketplace Version">
   </a>
+  &nbsp;&nbsp;
   <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
     <img src="https://vsmarketplacebadges.dev/installs/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Installs&color=7E9CD8" alt="Visual Studio Marketplace Installs">
   </a>
+  &nbsp;&nbsp;
   <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
     <img src="https://vsmarketplacebadges.dev/rating/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Rating&color=98BB6C" alt="Visual Studio Marketplace Rating">
   </a>
+  &nbsp;&nbsp;
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-E6C384?style=flat-square" alt="License: MIT">
   </a>
@@ -37,11 +40,11 @@ Then select a flavor via the Command Palette (`Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`) u
 
 ## Flavors
 
-| Flavor   | Mood                                            |
-| -------- | ----------------------------------------------- |
+| Flavor   | Mood                                              |
+| -------- | ------------------------------------------------- |
 | `Wave`   | The default dark theme — calm, warm and balanced. |
-| `Dragon` | A darker, muted variant for low-light comfort.  |
-| `Lotus`  | A bright theme for working in daylight.         |
+| `Dragon` | A darker, muted variant for low-light comfort.    |
+| `Lotus`  | A bright theme for working in daylight.           |
 
 <div align="center">
   <h3>Wave</h3>

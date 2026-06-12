@@ -23,7 +23,8 @@
   },
   "description": "A port of the Kanagawa Neovim color theme for Visual Studio Code, including all three flavors Wave, Dragon and Lotus.",
   "devDependencies": {
-    "@vscode/vsce": "^3.9.2"
+    "@vscode/vsce": "^3.9.2",
+    "ovsx": "^1.0.1"
   },
   "displayName": "Kanagawa Flavors",
   "engines": {
@@ -51,7 +52,8 @@
   },
   "scripts": {
     "package": "vsce package",
-    "publish": "vsce publish"
+    "publish": "vsce publish",
+    "publish:ovsx": "ovsx publish"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
