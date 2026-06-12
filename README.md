@@ -4,9 +4,44 @@
   <img src="./assets/kanagawa.png" width="500" >
 </div>
 
-A port of the beautiful Kanagawa Neovim color theme, including all three flavors `Wave`, `Dragon` and `Lotus`.
+<p align="center">
+  A port of the beautiful <a href="https://github.com/rebelot/kanagawa.nvim">Kanagawa</a> Neovim color theme, including all three flavors <code>Wave</code>, <code>Dragon</code> and <code>Lotus</code>.
+</p>
 
-The extension is available in [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme) and [Open VSX Registry](https://open-vsx.org/extension/metaphore/kanagawa-vscode-color-theme).
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/metaphore.kanagawa-vscode-color-theme?style=flat-square&label=Marketplace&color=957FB8" alt="Visual Studio Marketplace Version">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/i/metaphore.kanagawa-vscode-color-theme?style=flat-square&label=Installs&color=7E9CD8" alt="Visual Studio Marketplace Installs">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/r/metaphore.kanagawa-vscode-color-theme?style=flat-square&label=Rating&color=98BB6C" alt="Visual Studio Marketplace Rating">
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-E6C384?style=flat-square" alt="License: MIT">
+  </a>
+</p>
+
+> Inspired by the colors of the famous painting [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) by Katsushika Hokusai.
+
+## Installation
+
+Install directly from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme) or the [Open VSX Registry](https://open-vsx.org/extension/metaphore/kanagawa-vscode-color-theme), or from within the editor:
+
+1. Open the **Extensions** view (`Ctrl+Shift+X` / `Cmd+Shift+X`).
+2. Search for **Kanagawa Flavors**.
+3. Click **Install**.
+
+Then select a flavor via the Command Palette (`Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`) under **Preferences: Color Theme**.
+
+## Flavors
+
+| Flavor   | Mood                                            |
+| -------- | ----------------------------------------------- |
+| `Wave`   | The default dark theme — calm, warm and balanced. |
+| `Dragon` | A darker, muted variant for low-light comfort.  |
+| `Lotus`  | A bright theme for working in daylight.         |
 
 <div align="center">
   <h3>Wave</h3>
@@ -22,6 +57,8 @@ The extension is available in [Visual Studio Marketplace](https://marketplace.vi
   <h3>Lotus</h3>
   <img src="./assets/lotus.png" width="1024" >
 </div>
+
+## Credits
 
 Credits to [rebelot](https://github.com/rebelot/kanagawa.nvim) for the original Neovim theme and [barklan](https://github.com/barklan/kanagawa.vscode) for the VS Code template.
 
