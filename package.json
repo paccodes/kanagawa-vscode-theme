@@ -29,7 +29,7 @@
   "engines": {
     "vscode": "^1.77.0"
   },
-  "homepage": "https://github.com/metapho-re/kanagawa-vscode-theme",
+  "homepage": "https://github.com/paccodes/kanagawa-vscode-theme",
   "icon": "icon.png",
   "keywords": [
     "kanagawa",
@@ -47,7 +47,7 @@
   "publisher": "metaphore",
   "repository": {
     "type": "git",
-    "url": "https://github.com/metapho-re/kanagawa-vscode-theme"
+    "url": "https://github.com/paccodes/kanagawa-vscode-theme"
   },
   "scripts": {
     "package": "vsce package",
