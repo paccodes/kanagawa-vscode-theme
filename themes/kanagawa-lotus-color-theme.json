@@ -202,6 +202,13 @@
       }
     },
     {
+      "name": "Keyword",
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#624C83"
+      }
+    },
+    {
       "name": "Control Keyword",
       "scope": [
         "keyword.control.flow",
