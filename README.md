@@ -9,21 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
-    <img src="https://vsmarketplacebadges.dev/version/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Marketplace&color=957FB8" alt="Visual Studio Marketplace Version">
-  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme"><img src="https://vsmarketplacebadges.dev/version/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Marketplace&color=957FB8" alt="Visual Studio Marketplace Version"></a>
   &nbsp;&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
-    <img src="https://vsmarketplacebadges.dev/installs/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Installs&color=7E9CD8" alt="Visual Studio Marketplace Installs">
-  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme"><img src="https://vsmarketplacebadges.dev/installs/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Installs&color=7E9CD8" alt="Visual Studio Marketplace Installs"></a>
   &nbsp;&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme">
-    <img src="https://vsmarketplacebadges.dev/rating/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Rating&color=98BB6C" alt="Visual Studio Marketplace Rating">
-  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme"><img src="https://vsmarketplacebadges.dev/rating/metaphore.kanagawa-vscode-color-theme.svg?style=flat-square&label=Rating&color=98BB6C" alt="Visual Studio Marketplace Rating"></a>
   &nbsp;&nbsp;
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-E6C384?style=flat-square" alt="License: MIT">
-  </a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-E6C384?style=flat-square" alt="License: MIT"></a>
 </p>
 
 > Inspired by the colors of the famous painting [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) by Katsushika Hokusai.
